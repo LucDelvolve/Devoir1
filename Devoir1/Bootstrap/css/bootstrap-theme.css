@@ -1,0 +1,7 @@
+#divCommandes, #divLivreurs, #divClients{
+    float:left;
+    height:auto;
+    width:100%;
+    display:block;
+    margin-top: 35px;
+}
